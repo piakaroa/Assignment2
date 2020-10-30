@@ -1,4 +1,4 @@
-# Assignment2_s333976
+# Assignment 2
 
 For assignment 2 in the course Introduction to Artificial Intelligence, we have chosen use case 1, the prediction of stock market prices for Norwegian airlines. For this use case, we believe regression would be the superior method to use. This is because stock market prices are continuous, which regression supports. We are attempting to predict an outcome variable, the stock price on a certain date which hasn't happened yet, based on a series of other variables, in this case earlier stock market prices. We also chose regression because, to be frank, it's simple to use, it's used to predict numeric values, and it seems to be what all the other stock market prediction python tutorials use, so why would we choose differently? ;-) The date we have chosen for the prediction is 16th of March 2015.
  
